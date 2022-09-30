@@ -2,7 +2,7 @@
 # Cheat-Sheets
 
 <p align="center">
-  <img src="CheatSheet.png">
+  <img src="Cheatsheet.png">
 </p>
 
 A cheat sheets can be really helpful when you're trying a set of exercises related to a specific topic, or working on a project.
