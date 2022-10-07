@@ -1,4 +1,3 @@
-# CheetSheets
 # Cheat-Sheets
 
 <p align="center">
